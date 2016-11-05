@@ -1,6 +1,9 @@
 import java.io.*;
 import java.net.*;
 
+/**
+ * VUnetID: <fill in your VUnetID here>
+ **/
 class ClientStub
 {
   BufferedReader in;
